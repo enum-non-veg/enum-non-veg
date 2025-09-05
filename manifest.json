@@ -1,0 +1,16 @@
+{
+  "name": "Non-Vegetarian Food Additives",
+  "short_name": "Non-Veg E-Nums",
+  "description": "A list of food additives that are or may be derived from animal products.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f6fbff",
+  "theme_color": "#f6fbff",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
